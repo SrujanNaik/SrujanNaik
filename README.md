@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrujanNaik
-- 👀 I’m interested in Iot,Tech, Gaming, Fictional story 
-- 🌱 I’m currently learning computer science engineering 
+- 👀 I’m interested in Tech, Gaming, Programming 
+- 🌱 I’m currently pursuing Computer Science engineering 
 - 📫 How to reach me Ph: 9480341715 Email: srujannaik03@gmail.com
 
 <!---
